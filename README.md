@@ -1,6 +1,8 @@
 # Diabetes-Prediction-Project
 This project explores the use of Support Vector Machines (SVM) for predicting the presence of diabetes in individuals based on their health data. It serves as a demonstration of the machine learning process for educational purposes and should not be used for actual medical diagnosis or treatment.
 
+![Diabetes Prediction Project - Jupyter Notebook - Google Chrome 2024-02-25 13-02-42 (2)](https://github.com/KZV027/Diabetes-Prediction-Project/assets/94216170/25b5a215-9ef5-432d-949c-55dbb4a2da73)
+
 ## Dependencies
 * pandas
 * numpy
